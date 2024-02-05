@@ -4,5 +4,5 @@ Quick shellcheck on project that lanl (Los Alamos National Labs) has up on publi
 # How to run it
 
 ```bash
-chmod +x lanl.sh; lanl.sh
+chmod +x ./lanl.sh; ./lanl.sh
 ```
